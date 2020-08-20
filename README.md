@@ -1,2 +1,2 @@
-# recettes-de-navets
+# des-recettes
 Created with CodeSandbox
